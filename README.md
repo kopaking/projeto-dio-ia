@@ -21,7 +21,7 @@ Este projeto visa aprimorar o envolvimento do cliente através da personalizaç�
 
 ### Bibliotecas Utilizadas:
 ###
-![Pandas]() 	![OpenAI]()  ![Dotenv]()  ![json]()  ![requests]()  ![requests]()  ![time]()  ![os]() 
+Pandas 	OpenAI  Dotenv  json  requests  requests  time  os
 
 ### Metodologia:
 
